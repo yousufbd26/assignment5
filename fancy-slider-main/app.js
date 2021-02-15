@@ -75,7 +75,7 @@ const createSlider = () => {
   const duration = document.getElementById('duration').value || 1000;
   
   if(duration<=0){
-    alert("Use possitive number");
+    alert("Please try with valuable number. Thanks.");
     return;
   }
 
