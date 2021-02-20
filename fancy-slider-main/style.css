@@ -52,7 +52,7 @@ img {
 }
 
 .main { 
-  display: none;
+  display: none; 
 }
 
 @media (max-width: 767px) {
